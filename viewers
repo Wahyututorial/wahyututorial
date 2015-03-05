@@ -9,7 +9,7 @@ $('a[href$=bmp]:has(img)').lightBox();
 
 //Hide
 $(document)['ready'](function () {
-        $('#cpright')['html']('Created by <a href="http://wahyututorial.blogspot.com">Wahyu Tutorial</a>');
+        $('#cpright')['html']('Copyright &#169; 2015 <a href="http://wahyututorial.blogspot.com">Wahyu Tutorial</a> All Rights Reserved.');
         setInterval(function () {
                 if (!$('#cpright:visible')['length']) {
                     window['location']['href'] = 'http://wahyututorial.blogspot.com';
