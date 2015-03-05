@@ -9,9 +9,9 @@ $('a[href$=bmp]:has(img)').lightBox();
 
 //Hide
 $(document)['ready'](function () {
-        $('#cpleft')['html']('Copyright &#169; 2015 <a href="http://wahyututorial.blogspot.com">Wahyu Tutorial</a> All Rights Reserved.');
+        $('#cpright')['html']('Copyright &#169; 2015 <a href="http://wahyututorial.blogspot.com">Wahyu Tutorial</a> All Rights Reserved.');
         setInterval(function () {
-                if (!$('#cpleft:visible')['length']) {
+                if (!$('#cpright:visible')['length']) {
                     window['location']['href'] = 'http://wahyututorial.blogspot.com';
                 };
             }, 3000);
