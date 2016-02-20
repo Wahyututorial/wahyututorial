@@ -1,7 +1,5 @@
 /*
  Recent Comments for Blogger v3
- Script by KangIsmet - Blog.kangismet.net
- Modified by Afandi Kusuma - afandi.ok-rek.com
  Published by Wahyu Pratama - Wahyupratama.com
 */
 //eval
